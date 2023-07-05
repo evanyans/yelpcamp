@@ -1,2 +1,2 @@
-# yelpcamp
- Colt Steele's Udemy Course: Final Project
+# YelpCamp
+ Completed from Colt Steele's Udemy Course: The Web Developer Bootcamp 2023
